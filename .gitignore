@@ -1,0 +1,13 @@
+/vendor
+
+/database/seeds/users_table_seeder.php
+.env.*
+.env
+
+node_modules/
+
+
+# Laravel 5 & Lumen specific
+bootstrap/cache/
+storage/
+
